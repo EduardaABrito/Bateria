@@ -34,8 +34,8 @@ h1 {
     font-weight: bold;
 }
 .key.active {
-    border: 2px solid #FF0;
-    color: #FF0;
+    border: 2px solid rgb(191, 60, 211);
+    color: rgb(200, 155, 201);
 }
 
 .composer {
@@ -59,7 +59,7 @@ h1 {
     cursor: pointer;
 }
 .composer button:hover {
-    background-color: rgba(0, 0, 0, 0.2);
+    background-color: rgba(72, 166, 228, 0.552);
 }
 
 footer {
